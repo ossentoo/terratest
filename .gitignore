@@ -2,3 +2,5 @@ terraform.tfstate
 terraform.tfstate.backup
 .terraform/plugins/windows_amd64/lock.json
 .terraform.tfstate.lock.info
+.terraform/plugins/darwin_amd64/lock.json
+.terraform/plugins/darwin_amd64/terraform-provider-azurerm_v1.34.0_x4
